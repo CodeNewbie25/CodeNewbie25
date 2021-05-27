@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CodeNewbie25
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Python
